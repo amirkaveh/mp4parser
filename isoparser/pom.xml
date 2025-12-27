@@ -85,7 +85,7 @@
                     <target>1.8</target>
                     <additionalCompilerArgs>
                         <arg>--module-path</arg>
-                        <arg>${project.build.directory}/alternateLocation/slf4-api.jar</arg>
+                        <arg>${project.build.directory}/alternateLocation/slf4j-api.jar</arg>
                     </additionalCompilerArgs>
 
                 </configuration>
