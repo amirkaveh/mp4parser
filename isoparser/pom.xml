@@ -6,7 +6,6 @@
     <description>A generic parser and writer for all ISO 14496 based files (MP4, Quicktime, DCF, PDCF, ...)
     </description>
     <url>https://github.com/sannies/mp4parser</url>
-    <version>1.9.57-SNAPSHOT</version>
     <parent>
         <artifactId>mp4parser-project</artifactId>
         <groupId>org.mp4parser</groupId>
